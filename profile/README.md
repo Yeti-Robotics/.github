@@ -8,4 +8,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![graphic](https://github.com/user-attachments/assets/d2a29131-0846-43c2-8847-89926c0348df)
+
+![linked-in](https://github.com/user-attachments/assets/512aae95-fe84-4c11-98d9-260553a6c687)
